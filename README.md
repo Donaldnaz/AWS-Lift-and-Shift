@@ -1,4 +1,4 @@
-# AWS Lift & Shift Project
+# AWS Lift & Shift Migration Project
 
 Migrated on-premises legacy applications to the cloud using the Lift & Shift approach — achieving faster scalability and reduced infrastructure overhead.
 
